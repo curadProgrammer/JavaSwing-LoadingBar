@@ -1,7 +1,7 @@
 <h1>Loading Bar GUI</h1>
 
 <h2>Overview</h2>
-<p>The Delete Files GUI is a simple Java application that provides a graphical user interface (GUI) for deleting files from a specific folder. It uses Swing components to create the GUI, including a button to initiate the file deletion process and a progress bar to show the deletion progress. The application also displays a result dialog to inform the user about the outcome of the file deletion operation.</p>
+<p>The Loading Bar GUI is a simple Java application that provides a graphical user interface (GUI) for deleting files from a specific folder. It uses Swing components to create the GUI, including a button to initiate the file deletion process and a progress bar to show the deletion progress. The application also displays a result dialog to inform the user about the outcome of the file deletion operation.</p>
 
 <h2>Files</h2>
 
