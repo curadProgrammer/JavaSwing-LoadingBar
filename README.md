@@ -13,7 +13,7 @@
 
 <h2>Usage</h2>
 
-<p>To use the Delete Files GUI, follow these steps:</p>
+<p>To use the Loading Bar GUI, follow these steps:</p>
 
 <ol>
   <li>Create a folder named "files" in the same directory as the compiled Java files.</li>
@@ -24,7 +24,7 @@
   <li>Run the compiled Java program:</li>
   <pre><code>java App</code></pre>
 
-  <li>The Delete Files GUI window will appear.</li>
+  <li>The Loading Bar GUI window will appear.</li>
 
   <li>Click the "Delete Files" button to initiate the file deletion process. If there are files in the "files" folder, they will be deleted, and the progress bar will show the deletion progress. A result dialog will be displayed once the deletion process is complete.</li>
 </ol>
